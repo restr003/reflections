@@ -2,4 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
     When you initialize a repository, Git puts together your files and informs you that your files will not be in a new repository with the path the files are currently in based on where they're stored on your computer.
 
-    This is necessary because otherwise Git would not know what files belong to your repository. 
+    This is necessary because otherwise Git would not know what files belong to your repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    The staging area is difference because it is effectively a little limbo land where you can add and make changes before actually submitting the commit itself. This offers you the flexibility to figure out what you want to do before creating the commit itself. a
