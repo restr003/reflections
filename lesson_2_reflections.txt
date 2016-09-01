@@ -14,4 +14,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-    Branches are helpful in keeping things organized because there are some changes you want to make that you may not think are ready for prime-time or need more work. This allows you to essentially have two versions on your project and work on them in parallel. 
+    Branches are helpful in keeping things organized because there are some changes you want to make that you may not think are ready for prime-time or need more work. This allows you to essentially have two versions on your project and work on them in parallel.
+
+How do the diagrams help you visualize the branch structure?
+
+    It helps me remember what is related to what when talking about different topics and subjects. Understanding the link between different topics is a great way to understand concepts. 
