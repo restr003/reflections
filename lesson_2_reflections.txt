@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    When you initialize a repository, Git puts together your files and informs you that your files will not be in a new repository with the path the files are currently in based on where they're stored on your computer.
+
+    This is necessary because otherwise Git would not know what files belong to your repository. 
