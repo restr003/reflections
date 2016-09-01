@@ -18,4 +18,10 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 
-    It helps me remember what is related to what when talking about different topics and subjects. Understanding the link between different topics is a great way to understand concepts. 
+    It helps me remember what is related to what when talking about different topics and subjects. Understanding the link between different topics is a great way to understand concepts.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+    The result of merging two branches together is that the code from both branches will be combined into a new commit on one branch. This helps you experiment with one branch and bring it in once its ready.
+
+    The reason it is being represented in the diagram the way it is is because merging operates on the repository. 
